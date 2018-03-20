@@ -1,1 +1,1 @@
-#wsRader
+#wsReader
